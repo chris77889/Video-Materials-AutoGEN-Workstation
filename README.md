@@ -45,7 +45,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=top-left)](https://www.star-history.com/#Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)](https://www.star-history.com/#Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)
 
 ## 免责声明
 
