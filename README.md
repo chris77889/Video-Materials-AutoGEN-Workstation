@@ -2,6 +2,8 @@
 
 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 
+# ❗正在考虑使用最新LangGraph架构重构该项目，敬请期待❗
+
 ## 功能速览
 
 - 支持按模板批量生成视频项目，脚本、图片素材(AI)、字幕和音频一键齐备。
@@ -11,6 +13,7 @@
 ## 数据展示
 
 ![抖音投放数据](img/数据.png)
+
 
 ## 前端界面
 
@@ -58,7 +61,13 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)](https://www.star-history.com/#Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right)
+<a href="https://www.star-history.com/#Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Norsico/Video-Materials-AutoGEN-Workstation&type=date&legend=bottom-right" />
+ </picture>
+</a>
 
 ## 免责声明
 
